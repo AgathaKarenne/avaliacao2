@@ -140,7 +140,7 @@ int main()
             abaixoSalarioM++;
         }
     }
-    // Após a leitura dos dados de todos os assalariados pesquisados o seu algoritmo deverá apresentar
+    // Após a leitura dos dados de todos os assalariados pesquisados o algoritmo deverá apresentar
     // a quantidade de assalariados com salário abaixo do salário mínimo e a quantidade assalariados com salário acima do salário mínimo
     printf("\nQuantidade de assalariados abaixo do salario minimo: %d\n", abaixoSalarioM);
     printf("Quantidade de assalariados acima do salario minimo: %d\n", acimaSalarioM);

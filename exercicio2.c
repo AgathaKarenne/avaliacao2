@@ -108,7 +108,7 @@ void mostraClassifica(Assalariado *funcionarios)
     classificaSalario(funcionarios->salario);
     printf("Genero: %s\n", (funcionarios->sexo == MASCULINO) ? "Masculino" : "Feminino");
 }
-int main()
+main()
 {
     int abaixoSalarioM = 0, acimaSalarioM = 0;
 
